@@ -16,3 +16,16 @@ conda env create -f environment.yml
 conda activate modsar
 ```
 ## Cite us
+Li, Yutong, et al. "Optimisation-based modelling for explainable lead discovery in malaria." Artificial intelligence in medicine 147 (2024): 102700.
+
+```
+@article{li2024optimisation,
+  title={Optimisation-based modelling for explainable lead discovery in malaria},
+  author={Li, Yutong and Cardoso-Silva, Jonathan and Kelly, John M and Delves, Michael J and Furnham, Nicholas and Papageorgiou, Lazaros G and Tsoka, Sophia},
+  journal={Artificial intelligence in medicine},
+  volume={147},
+  pages={102700},
+  year={2024},
+  publisher={Elsevier}
+}
+```
