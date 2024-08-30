@@ -1,6 +1,6 @@
 # Optimisation-based Modelling for Explainable Lead Discovery in Malaria
 ![modSAR flowchart](flowchart.png)
-This repository contains the code of data preprocessing, model building, model evaluation and feature importance analysis for [Optimisation-based Modelling for Explainable Lead Discovery in Malaria](). 
+This repository contains the code of data preprocessing, model building, model evaluation and feature importance analysis for [Optimisation-based Modelling for Explainable Lead Discovery in Malaria](https://www.sciencedirect.com/science/article/pii/S0933365723002142). 
 ## Abstract
 **Background:** The search for new antimalarial treatments is urgent due to growing resistance to existing therapies. The Open Source Malaria (OSM) project offers a promising starting point, having extensively screened various compounds for their effectiveness. Further analysis of the chemical space surrounding these compounds could provide the means for innovative drugs.
 
